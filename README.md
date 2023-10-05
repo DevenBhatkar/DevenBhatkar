@@ -30,7 +30,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devenbhatkar&show_icons=true&locale=en" alt="devenbhatkar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devenbhatkar&" alt="devenbhatkar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devenbhatkar&" alt="devenbhatkar"/></p>
 
 <!--
 **DevenBhatkar/DevenBhatkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
