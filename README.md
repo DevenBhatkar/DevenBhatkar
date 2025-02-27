@@ -1,4 +1,4 @@
-![logo](https://github.com/DevenBhatkar/DevenBhatkar/blob/main/github-header-image.png)
+![logo](https://github.com/DevenBhatkar/DevenBhatkar/blob/main/github-header-image2.png)
 <h1 align="center">Hi 👋, I'm Deven Bhatkar</h1>
 <h3 align="center">Software Developer |Tech Enthusiast | FinalYear Engineering Student|</h3>
 
