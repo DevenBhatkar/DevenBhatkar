@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Deven Bhatkar</h1>
-<h3 align="center">Software Developer |Tech Enthusiast | FinalYear Engineering Student|</h3>
+<h3 align="center">Final Year Engineering Student | Passionate about Software Development & Cloud Tech | AWS | Java | Python</h3>
 
 
 
