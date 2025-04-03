@@ -83,5 +83,5 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/devenbhatkar/devenbhatkar/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
+  <img src="https://raw.githubusercontent.com/DevenBhatkar/DevenBhatkar/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
