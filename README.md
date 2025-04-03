@@ -12,7 +12,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B801&center=true&vCenter=true&width=500&lines=Passionate+Developer+🚀;Cloud+Tech+Enthusiast+☁️;Always+Learning+New+Things+📚;Building+Scalable+Software+🛠️" />
+  <img src="https://raw.githubusercontent.com/DevenBhatkar/DevenBhatkar/main/banner.png" alt="Deven Bhatkar Banner" />
 </p>
 
 ---
