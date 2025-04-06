@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="your-image-url" alt="https://github.com/DevenBhatkar/DevenBhatkar/blob/main/54b4d071-ff2f-41a3-b6b0-eb8729094ba0.png" />
+  <img src="https://github.com/DevenBhatkar/DevenBhatkar/blob/main/54b4d071-ff2f-41a3-b6b0-eb8729094ba0.png" alt="https://github.com/DevenBhatkar/DevenBhatkar/blob/main/54b4d071-ff2f-41a3-b6b0-eb8729094ba0.png" />
 </p>
 
 <h3 align="center"> 
