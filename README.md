@@ -11,10 +11,6 @@
 🚀 Final Year Engineering Student | Software Development & Cloud Enthusiast ☁️ | AWS | Java | Python 
 </h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DevenBhatkar/DevenBhatkar/main/banner.png" alt="Deven Bhatkar Banner" />
-</p>
-
 ---
 
 ### 🛠️ About Me
